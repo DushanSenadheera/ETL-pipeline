@@ -1,0 +1,7 @@
+
+name,age,department
+John,28,Engineering
+Doe,35,HR
+Alice,invalid_data,Finance
+Bob,45,Engineering
+Charlie,32,Marketing
